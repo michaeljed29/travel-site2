@@ -1,3 +1,3 @@
-var Person = require('./modules/Personnn');
+import MobileMenu from './modules/MobileMenu';
 
-alt('ttesasdfating 123');
+var mobileMenu = new MobileMenu();
